@@ -1,0 +1,16 @@
+{
+  "name": "ESP32-S3-Matrix-Display",
+  "version": "1.0.0",
+  "description": "LED Matrix Display Controller for ESP32-S3",
+  "keywords": ["ESP32", "S3", "LED", "Matrix", "Display", "RGB"],
+  "category": "Display",
+  "url": "https://github.com/Jaygoinnovation/S3-MATRIX",
+  "architectures": ["esp32"],
+  "frameworks": ["arduino"],
+  "authors": [
+    {
+      "name": "Jaygoinnovation",
+      "url": "https://github.com/Jaygoinnovation"
+    }
+  ]
+}
